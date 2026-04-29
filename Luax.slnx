@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Luax.vcxproj" Id="ca71abf5-6728-4e75-bd0a-40c6d4591466" />
+</Solution>
